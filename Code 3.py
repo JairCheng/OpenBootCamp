@@ -1,3 +1,4 @@
+# comission calculator
 # variable that needs to be created: sale price x comission % divide by 100
 
 loop = "y"
